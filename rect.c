@@ -18,7 +18,10 @@ scanf("%d%d%d%d",&side5,&side6,&side7,&side8);
    {
    printf("true");
 }
-  
+  else
+    {
+   printf("false");
+}
 
    getch();
    closegraph();
